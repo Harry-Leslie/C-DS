@@ -31,24 +31,14 @@ A data structure is a particular way of organizing and storing data in a compute
 
 ### Arrays
 
-- **Array**
-- **Bit array**
-- **Bit field**
+- **Array** (done)
+- **Dynamic array** (done)
+- **Bit array** 
 - **Bitboard**
-- **Bitmap**
 - **Circular buffer**
-- **Control table**
-- **Image**
-- **Dope vector**
-- **Dynamic array**
+- **Dope vector** (in progress)
 - **Gap buffer**
-- **Hashed array tree**
-- **Lookup table**
 - **Matrix**
-- **Parallel array**
-- **Sorted array**
-- **Sparse matrix**
-- **Iliffe vector**
 - **Variable-length array**
 
 ### Lists
@@ -100,7 +90,7 @@ A data structure is a particular way of organizing and storing data in a compute
 
 - **B-tree**
 - **B+ tree**
-- **B*-tree**
+- **B\*-tree**
 - **Dancing tree**
 - **2–3 tree**
 - **2–3–4 tree**
@@ -258,8 +248,8 @@ A data structure is a particular way of organizing and storing data in a compute
 To use this library, clone the repository and include the relevant header files in your C projects.
 
 ```
-git clone https://github.com/Harry-Leslie/c_datastructures.git
-cd c_datastructures
+git clone https://github.com/Harry-Leslie/C_datastructures.git
+cd C_datastructures
 ```
 
 ## Usage
